@@ -3,5 +3,7 @@ il faut à l'aide du fichier "script.py" déchiffrer le fichier "files", qui don
 Vous trouvez le hash du mot de passe dans "hash"
 
 Petite définition d'un hash :
-Le hashage est une methode de chiffrement qui, une fois chiffée, ne peut être déchiffrée à l'aide
-d'une m
+Le hashage est une méthode de chiffrement qui, une fois chiffée, ne peut être déchiffrée à l'aide
+d'une méthode de déchiffrement. On dit qu'elle est à sens unique.
+
+Il faudra donc ruser pour trouver le mot de passe correspondant !
