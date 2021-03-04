@@ -7,3 +7,5 @@ Le hashage est une méthode de chiffrement qui, une fois chiffée, ne peut être
 d'une méthode de déchiffrement. On dit qu'elle est à sens unique.
 
 Il faudra donc ruser pour trouver le mot de passe correspondant !
+
+Si vous n'avez pas python installé, vous le trouverez à : https://www.python.org/downloads.
